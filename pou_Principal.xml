@@ -3,6 +3,7 @@
    <programs>
       <pou name="Principal" kind="program" period="1" phase="0" lge="ST">
          <vargroup name="Principal" kind="LOCAL">
+            <var name="toto" type="BOOL"/>
          </vargroup>
 <defines name="Principal"></defines>
          <sourceSTIL>         </sourceSTIL>
