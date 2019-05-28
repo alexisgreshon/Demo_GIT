@@ -5,7 +5,7 @@
          <var name="NewVar" type="BOOL"/>
          <var name="NewVar1" type="BOOL"/>
          <var name="NewVar2" type="BOOL"/>
-         <var name="NewVar3" type="BOOL"/>
+         <var name="NewVar3" type="DINT"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>
