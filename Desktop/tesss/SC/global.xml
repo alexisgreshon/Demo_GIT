@@ -6,7 +6,7 @@
          <var name="NewVar1" type="BOOL"/>
          <var name="NewVar2" type="BOOL"/>
          <var name="NewVar3" type="DINT"/>
-         <var name="MyPullVar" type="sdsss"/>
+         <var name="MyPullVar" type="BYTE"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>
